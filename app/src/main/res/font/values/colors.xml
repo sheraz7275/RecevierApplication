@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+
+    <color name="textWhite">#FFFFFF</color>
+    <color name="textGray">#777777</color>
+    <color name="textGray1">#999999</color>
+    <color name="textDarkGray">#444444</color>
+    <color name="textDarkerGray">#222222</color>
+
+    <color name="appGreen">#30a56d</color>
+
+    <color name="backgroundWhite">#FFFFFF</color>
+    <color name="backgroundLightGray">#dddddd</color>
+    <color name="BackGray">#cccccc</color>
+
+
+    <color name="nBlue">#083D77</color>
+    <color name="nRed">#DA4167</color>
+    <color name="nGray">#C3C3C3</color>
+
+    <color name="nDarkGray">#808080</color>
+
+
+    <color name="specialGreen">#55aa55</color>
+
+    <color name="white">#ffffff</color>
+
+    <color name="cleander">#F2F2F2</color>
+
+    <color name="transparent">#80000000</color>
+
+    <color name="black_overlay">#66000000</color>
+
+</resources>
